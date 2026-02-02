@@ -7,3 +7,6 @@
 [submodule "Data-Analystics"]
 	path = Data-Analystics
 	url = https://github.com/midhunsomu/IITKGP-Data-Analystics-Hackathon.git
+[submodule "Ethereum-fraud-detection"]
+	path = Ethereum-fraud-detection
+	url = https://github.com/midhunsomu/ethereum-fraud-detection.git
