@@ -1,0 +1,3 @@
+[submodule "Video-Translate"]
+	path = Video-Translate
+	url = https://github.com/midhunsomu/Video-Translate.git
