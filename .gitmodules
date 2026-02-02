@@ -4,3 +4,6 @@
 [submodule "Wellness-ai"]
 	path = Wellness-ai
 	url = https://github.com/midhunsomu/Wellness-ai.git
+[submodule "Data-Analystics"]
+	path = Data-Analystics
+	url = https://github.com/midhunsomu/IITKGP-Data-Analystics-Hackathon.git
