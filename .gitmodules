@@ -1,3 +1,6 @@
 [submodule "Video-Translate"]
 	path = Video-Translate
 	url = https://github.com/midhunsomu/Video-Translate.git
+[submodule "Wellness-ai"]
+	path = Wellness-ai
+	url = https://github.com/midhunsomu/Wellness-ai.git
