@@ -10,3 +10,6 @@
 [submodule "Ethereum-fraud-detection"]
 	path = Ethereum-fraud-detection
 	url = https://github.com/midhunsomu/ethereum-fraud-detection.git
+[submodule "MediQueue"]
+	path = MediQueue
+	url = https://github.com/midhunsomu/MediQueue.git
